@@ -1,7 +1,7 @@
 Flurry Android Adapter for AdMob and DFP
 ========================================
 
-### Adapter version 6.4.2 - Updated 2016-08-12
+### Adapter version 6.4.3 - Updated 2016-08-16
 
 This adapter enables mediation of Flurry ads via the Google Ads SDK for 
 [DoubleClick for Publishers](https://developers.google.com/mobile-ads-sdk/docs/dfp/android/mediation-networks) or 
@@ -9,7 +9,8 @@ This adapter enables mediation of Flurry ads via the Google Ads SDK for
 
 ### Installation
 
-Download the [library jar](flurryAdapter.jar) file and import it into your project.
+Download the [library jar](https://github.com/flurry/flurry-adapter-admob-android/raw/master/flurryAdapter.jar)
+file and import it into your project.
 
 This library also requires the 
 [Flurry Ads SDK for Android](https://developer.yahoo.com/flurry/docs/integrateflurry/android/), which needs to
@@ -30,6 +31,9 @@ To learn more about these steps, read the Yahoo Developer Network documentation 
 
 Changelog
 ---------
+
+### Version 6.4.3 - 2016-08-16
+* Bug fixes
 
 ### Version 6.4.2 - 2016-08-12
 * Supports Google ads v2 mediation APIs
